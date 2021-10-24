@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacts_dummy</string>
+    <string name="add_to_contacts">ADD TO CONTACTS</string>
+    <string name="enter_the_contact_details_here">Enter the contact details here</string>
+    <string name="enter_the_phone_number_here">Enter the Phone Number Here</string>
+    <string name="phone_no">Phone no</string>
+    <string name="name_here">name here</string>
+</resources>
